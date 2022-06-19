@@ -1,0 +1,70 @@
+*  {
+    margin: 0;
+    padding: 0;
+    /**background-image: url(Imagen/Imagen4.jpg);
+    background-repeat: no-repeat;**/
+   }
+
+
+.agrupar {
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+    padding: 5px;
+    background-image: url(Imagen/Imagen4.jpg);
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center;
+    border: 1px solid black;
+   }
+
+
+article {
+     color: white;
+     display: block;
+     text-align: left;
+     margin-left: 10px;
+     margin-top: 10px;
+     margin-bottom: 220px;
+     font: bold 14px sans-serif;
+   }
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 150px;
+    color: white;
+    font-size: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #ccc,
+        0 2px 0 #c9c9c9,
+        0 3px 0 #bbb, 
+        0 4px 0 #b9b9b9,
+        0 5px 0 #aaa,
+        0 6px 1px rgba(0, 0, 0, .1),
+        0 0 5px rgba(0, 0, 0, .1),
+        0 1px 3px rgba(0, 0, 0, .3),
+        0 3px 5px rgba(0, 0, 0, .2),
+        0 5px 10px rgba(0, 0, 0, .25),
+        0 10px 10px rgba(0, 0, 0, .2),
+        0 20px 20px rgba(0, 0, 0, .15);
+   }
+
+
+footer {
+    color: white;
+    font-size: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font: bold 14px sans-serif;
+   }
+
+
+#pagina{
+    text-decoration: none;
+    color: white;
+}
